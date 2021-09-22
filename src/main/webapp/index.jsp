@@ -8,7 +8,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center"> VIVEK MAMA</h1>
 	<h1 style="color: red; font-size: 40px;" align="center"> LKG</h1>
 	<h1 style="color: green; font-size: 40px;" align="center"> PURUSH HAVULE</h1>
-	<h1 style="color: yellow; font-size 40px;" align="center"> NAGI BHAI</h1>
+	<h1 style="color: yellow; font-size: 40px;" align="center"> NAGI BHAI</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center"> BHARATH REDDY</h1>
 	
 </body>
