@@ -31,7 +31,7 @@ ul li
     transition: 0.5s;
     cursor: pointer;
     box-sizing: border-box;
-    /*border-bottom: 1px solid rgba(0,0,0,.2);*/
+    border-bottom: 1px solid rgba(0,0,0,.2);
 }
 
 ul li:last-child
