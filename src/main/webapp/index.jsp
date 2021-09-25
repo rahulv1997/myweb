@@ -93,12 +93,12 @@ ul li:hover:after
 <body>
 
 <ul>
-    <li>Lorem ipsum dolor</li>
-    <li>sit amet consectetur</li>
-    <li>adipisicing elit</li>
-    <li>sed do eiusmod</li>
-    <li>tempor incididunt ut</li>
-    <li>labore et dolore magna</li>
+    <li>Vislavath Rahul</li>
+    <li>Gadila Laxmikanth</li>
+    <li>Tirukovela Vivek</li>
+    <li>Gajula Nithish</li>
+    <li>Gunti Ramya</li>
+    <li>Sri Teju</li>
 </ul>
 
 </body>
