@@ -93,12 +93,16 @@ ul li:hover:after
 <body>
 
 <ul>
-    <li>Vislavath Rahul</li>
-    <li>Gadila Laxmikanth</li>
-    <li>Tirukovela Vivek</li>
-    <li>Gajula Nithish</li>
-    <li>Gunti Ramya</li>
-    <li>Sri Teju</li>
+    <li>pandu kothi</li>
+    <li>LKG</li>
+    <li>vivek mawa</li>
+    <li>nithu</li>
+    <li>Ramya bro</li>
+    <li>peddamma</li>
+    <li>Teacheramma</li>
+    <li>purush</li>
+    <li>nagi bhai</li>
+    <li>bharath reddy</li>
 </ul>
 
 </body>
