@@ -103,6 +103,8 @@ ul li:hover:after
     <li>purush</li>
     <li>nagi bhai</li>
     <li>bharath reddy</li>
+    <li> ^    ^ </li>
+    <li> \____/ </li>
 </ul>
 
 </body>
